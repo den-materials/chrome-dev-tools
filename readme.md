@@ -13,7 +13,7 @@
 - Write basic HTML
 - Write basic JavaScript
 
-## What are Dev Tools? – Intro (3 mins)
+## What are Dev Tools? – Intro
 
 Most modern browsers include a set of tools that allow developers to monitor and explore what's going on in a web page. The Chrome Developer Tools, which are often called the "Dev Tools", are essential knowledge for every web developer.
 
@@ -27,7 +27,7 @@ We can do a lot of useful things with these tools, but some of the things that a
 
 Having such a powerful set of browser tools at our disposal is incredibly valuable, and you should get into the habit of using them to their full potential.
 
-## Open the DevTools – Demo (10 mins)
+## Open the DevTools – Demo
 
 First, let's navigate to [http://generalassemb.ly](http://generalassemb.ly).
 
@@ -56,7 +56,7 @@ The key ones to focus on are:
 - **Console**
 - **Network**
 
-## Elements Tab (10m)
+## Elements Tab
 
 ![elements-tab](./imgs/elements-tab.png)
 
@@ -119,7 +119,7 @@ Choose the perfect color:
 - Click on the colored box to choose a more specific color
 - Click onto the page to see a color selector and grab a color already on the page
 
-## Exercise: 15 Minutes of Fame (10m)
+## Exercise: 15 Minutes of Fame
 
 For modifying and editing your HTML & CSS, the dev tools has made it super easy to quickly test and edit these changes before incorporating them into your application. On the [New York Times](http://www.nytimes.com/) complete the following challenges.
 
@@ -132,7 +132,7 @@ Using the tips above, change:
 
 The goal is get you comfortable editing and manipulating the DOM. This skill will be essential in every one of your projects.
 
-## Network Tab (10m)
+## Network Tab
 
 ![network-tab](./imgs/network-tab.png)
 
@@ -180,7 +180,7 @@ download content: `curl -O <link-to-some-file>` (try an image)
 
 ![programmer-cat](http://www.quickmeme.com/img/99/9903c7c14add3fd0758b7b5b80c24d48101f296f13ce34736799a82c71f61bc2.jpg)
 
-## Console Tab (10 mins)
+## Console Tab
 
 Lastly, let's have a look at the console tab (you can use the shortcut – `⌘ + ⌥ + j` to navigate directly to it).
 
@@ -207,7 +207,7 @@ Let's try this:
 < 2
 ```
 
-## Independent Practice (20 mins)
+## Independent Practice
 
 Take a look at this screenshot:
 
