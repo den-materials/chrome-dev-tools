@@ -1,19 +1,26 @@
 # Chrome Dev Tools
 
-### Objectives
-*After this lesson, students will be able to:*
+## Why is this important?
+*This workshop will enable developers to:*
+
+- Build client-side applications more quickly and with less frustration
+- Practice and test out JavaScript in the console
+- Affect changes to webpages in real-time, allowing for faster change iterations
+
+## What are the objectives?
+*After this workshop, developers will be able to:*
 
 - Open and describe the components of the Chrome developer tools
 - Use the developer tools to manipulate page elements (HTML/CSS)
 
-### Preparation
-*Before this lesson, students should already be able to:*
+## Where should we be now?
+*Before this workshop, developers should already be able to:*
 
 - Use Chrome
 - Write basic HTML
 - Write basic JavaScript
 
-## What are Dev Tools? – Intro
+## Dev Tools Intro
 
 Most modern browsers include a set of tools that allow developers to monitor and explore what's going on in a web page. The Chrome Developer Tools, which are often called the "Dev Tools", are essential knowledge for every web developer.
 
@@ -27,7 +34,7 @@ We can do a lot of useful things with these tools, but some of the things that a
 
 Having such a powerful set of browser tools at our disposal is incredibly valuable, and you should get into the habit of using them to their full potential.
 
-## Open the DevTools – Demo
+## DevTools Demo
 
 First, let's navigate to [http://generalassemb.ly](http://generalassemb.ly).
 
@@ -222,8 +229,12 @@ Keep in mind if you refresh the page you **will** loose all your work.
 The General Assembly large logo can be sourced from the [General Assembly homepage](https://generalassemb.ly/) and the smaller logo, in the search bar, will have to be found through Google.  
 Remember, don't refresh the page, otherwise you'll lose all your work modifying the DOM.  
 
-## Bonus Material
+## Closing Thoughts
+
+Knowledge of the Dev Tools is *necessary* for developing client-side applications. It illustrates what's happening **"behind the scenes"** and allows for developers to **experiment** with change. This tool inevitably leads to a better workflow and **greater productivity**.
+
+## Additional Resources
 
 * Learn more about the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * Memorize the dev tool [keyboard shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
-* Explore the [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window); the window object represents a window containing the DOM.
+* Explore the [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window); the window object represents the window containing the DOM.
