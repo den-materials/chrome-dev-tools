@@ -1,6 +1,8 @@
 <!--
 Creator: Ilias Tsangaris
 Market: SF
+Edited: John Barela 
+Market: Den
 -->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
@@ -27,7 +29,7 @@ Market: SF
 - Write basic HTML
 - Write basic JavaScript
 
-## Dev Tools Intro
+## Dev Tools Intro 
 
 Most modern browsers include a set of tools that allow developers to monitor and explore what's going on in a web page. The Chrome Developer Tools, which are often called the "Dev Tools", are essential knowledge for every web developer.
 
@@ -41,7 +43,7 @@ We can do a lot of useful things with these tools, but some of the things that a
 
 Having such a powerful set of browser tools at our disposal is incredibly valuable, and you should get into the habit of using them to their full potential.
 
-## DevTools Demo
+## DevTools Demo (5 min)
 
 First, let's navigate to [http://generalassemb.ly](http://generalassemb.ly).
 
@@ -70,7 +72,7 @@ The key ones to focus on are:
 - **Console**
 - **Network**
 
-## Elements Tab
+## Elements Tab (10 min)
 
 ![elements-tab](./imgs/elements-tab.png)
 
@@ -123,7 +125,7 @@ Anything else:
 - Edit the raw HTML content by *right-clicking* and choosing "Edit as HTML" (clicking outside of the text-edit box will save the changes, while using the `esc` key will erase them).
 
 
-**Styling**
+**Styling** 
 
 Choose the perfect color:
 
@@ -133,7 +135,7 @@ Choose the perfect color:
 - Click on the colored box to choose a more specific color
 - Click onto the page to see a color selector and grab a color already on the page
 
-## Exercise: 15 Minutes of Fame
+## Exercise: 15 Minutes of Fame (only 10 mins of time to complete ☹) 
 
 For modifying and editing your HTML & CSS, the dev tools has made it super easy to quickly test and edit these changes before incorporating them into your application. On the [New York Times](http://www.nytimes.com/) complete the following challenges.
 
@@ -146,7 +148,7 @@ Using the tips above, change:
 
 The goal is get you comfortable editing and manipulating the DOM. This skill will be essential in every one of your projects.
 
-## Network Tab
+## Network Tab (15 min)
 
 ![network-tab](./imgs/network-tab.png)
 
@@ -165,7 +167,9 @@ The Network panel records information about each network operation in your appli
 * 4xx — Client Error
 * 5xx — Server Error
 
-For more information on status codes you can reference [HTTP Cat](https://http.cat/)
+For more information on status codes you can reference [HTTP Cat](https://http.cat/) or the much better [HTTP Status Dogs](https://httpstatusdogs.com/).
+
+[Comment]: # (Talk a bit about 400 vs 500 and consistent status codes.)
 
 #### Filtering
 
@@ -194,7 +198,9 @@ download content: `curl -O <link-to-some-file>` (try an image)
 
 ![programmer-cat](http://www.quickmeme.com/img/99/9903c7c14add3fd0758b7b5b80c24d48101f296f13ce34736799a82c71f61bc2.jpg)
 
-## Console Tab
+[Comment]: # (Try curling something like google too. There are GUI's too like PostMan.)
+
+## Console Tab (10 min)
 
 Lastly, let's have a look at the console tab (you can use the shortcut – `⌘ + ⌥ + j` to navigate directly to it).
 
@@ -221,7 +227,7 @@ Let's try this:
 < 2
 ```
 
-## Independent Practice
+## Independent Practice (30 min)
 
 Take a look at this screenshot:
 
