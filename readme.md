@@ -251,3 +251,7 @@ Knowledge of the Dev Tools is *necessary* for developing client-side application
 * Learn more about the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * Memorize the dev tool [keyboard shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
 * Explore the [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window); the window object represents the window containing the DOM.
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
