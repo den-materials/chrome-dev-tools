@@ -223,7 +223,7 @@ Take a look at this screenshot:
 
 Using the Chrome dev tools, try to recreate this screenshot on [Google.com](http://www.google.com).
 
-No pressure, this is meant to be exploratory!  So you'll have to dig through some HTML elements and their CSS to make this work.  For example, you'll have to modify the `float` property of the image in the search bar—something we haven't touched on yet.
+No pressure, this is meant to be exploratory!  So you'll have to dig through some HTML elements and their CSS to make this work.
 
 Keep in mind if you refresh the page you **will** loose all your work.
 
