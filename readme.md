@@ -188,18 +188,6 @@ By default, the network Tab shows all requests being made. However, you can filt
 
 You can also search through these requests, which can be useful.
 
-#### Sending Requests
-
-You can send off an HTTP request directly from the terminal. Try requesting a webpage or downloading a file using the `curl` command (the name originated from "see URL").
-
-request content: `curl www.example.com`
-
-download content: `curl -O <link-to-some-file>` (try an image)
-
-![programmer-cat](http://www.quickmeme.com/img/99/9903c7c14add3fd0758b7b5b80c24d48101f296f13ce34736799a82c71f61bc2.jpg)
-
-[Comment]: # (Try curling something like google too. There are GUI's too like PostMan.)
-
 ## Console Tab (10 min)
 
 Lastly, let's have a look at the console tab (you can use the shortcut – `⌘ + ⌥ + j` to navigate directly to it).
