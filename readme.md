@@ -90,14 +90,14 @@ Target a specific element to inspect or edit:
 
 **Inspecting**
 
-*Note: The `elements` tab has additional tabs. We will use the `styles` tab to edit, but now we will use the `computed` tab to inspect.*
+*Note: The `elements` tab has additional tabs. We will use the `styles` tab to view and edit all styles, but we can also use the `computed` tab to look at only the styles being applied to an element.*
 
 Inspect the styles applied to an element:
 
 * See the styles for any page or element *exactly* as the browser has interpreted all of the CSS styles collectively.
 
 * Access a visual representation of the box model along with a set of the computed values.
-    * Since CSS loads styles sequentially, it's possible for a rule in one stylesheet to be overwritten by another that was loaded subsequently.
+    * Since CSS loads styles sequentially, it's possible for a rule in one stylesheet to be overwritten by another that was loaded subsequently. That's what's happening when you see a style rule that is crossed out.
 
 
 **Editing**
@@ -223,12 +223,11 @@ Take a look at this screenshot:
 
 Using the Chrome dev tools, try to recreate this screenshot on [Google.com](http://www.google.com).
 
-No pressure, this is meant to be exploratory!  So you'll have to dig through some HTML elements and their CSS to make this work.
+No pressure, this is meant to be exploratory!  You'll have to dig through some HTML elements and their CSS to make this work.
 
-Keep in mind if you refresh the page you **will** loose all your work.
+Keep in mind if you refresh the page you **will** lose all your work.
 
 The General Assembly large logo can be sourced from the [General Assembly homepage](https://generalassemb.ly/) and the smaller logo, in the search bar, will have to be found through Google.  
-Remember, don't refresh the page, otherwise you'll lose all your work modifying the DOM.  
 
 ## Closing Thoughts
 
