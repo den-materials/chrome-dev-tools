@@ -7,6 +7,8 @@ Market: Den
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--WDI6 2:45 -->
+
 # Chrome Dev Tools
 
 ## Why is this important?
@@ -56,6 +58,8 @@ If you forget this command, you can go to *View > Developer > Developer Tools* o
 #### DevTools Tabs
 
 Overall, there are eight main tools available in the Developer Tools. You may see people with a few more as you can add custom ones using extensions.
+
+<!--This is not accurate anymore, we need to fix it -->
 
 - [**Elements**](https://developer.chrome.com/devtools/docs/dom-and-styles): Inspect and edit the HTML & CSS of the DOM (Document Object Model)
 - [**Console**](https://developer.chrome.com/devtools/docs/console): Run JavaScript in the browser
@@ -135,6 +139,8 @@ Choose the perfect color:
 - Click on the colored box to choose a more specific color
 - Click onto the page to see a color selector and grab a color already on the page
 
+<!--WDI6 3:06 -->
+
 ## Exercise: 15 Minutes of Fame (only 10 mins of time to complete ☹) 
 
 For modifying and editing your HTML & CSS, the dev tools has made it super easy to quickly test and edit these changes before incorporating them into your application. On the [New York Times](http://www.nytimes.com/) complete the following challenges.
@@ -147,6 +153,8 @@ Using the tips above, change:
 * Add a `margin-top` of 10px to the `main` element (that also has `id` and `class` `main`) and increment it up to 20px using the arrow keys
 
 The goal is get you comfortable editing and manipulating the DOM. This skill will be essential in every one of your projects.
+
+<!--WDI6 3:15 -->
 
 ## Network Tab (15 min)
 
@@ -215,6 +223,8 @@ Let's try this:
 < 2
 ```
 
+<!--WDI6 3:23 -->
+
 ## Independent Practice (30 min)
 
 Take a look at this screenshot:
@@ -238,6 +248,8 @@ Knowledge of the Dev Tools is *necessary* for developing client-side application
 * Learn more about the [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 * Memorize the dev tool [keyboard shortcuts](https://developer.chrome.com/devtools/docs/shortcuts)
 * Explore the [Window API](https://developer.mozilla.org/en-US/docs/Web/API/Window); the window object represents the window containing the DOM.
+
+<!--Wdi6 3:50 -->
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
